@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:icon="@android:drawable/ic_menu_send"
+    android:title="enviar"
+    android:id="@+id/borrar"
+    app:showAsAction="always"/>
+
+
+    <item
+    android:icon="@android:drawable/ic_menu_edit"
+    android:title="editar"
+    android:id="@+id/editar"
+    app:showAsAction="always"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="cámara"
+        android:id="@+id/camara"
+        app:showAsAction="never"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="salir"
+        android:id="@+id/salir"
+        app:showAsAction="never"/>
+
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taller2</string>
+
+    <string name="str_nom">Nombre</string>
+    <string name="str_tel">Teléfono</string>
+    <string name="str_email">Correo</string>
+    <string name="str_btn">aceptar</string>
+    <string name="accion_cancelar">cancelra</string>
+    <string name="accion_aceptar">aceeptar</string>
+</resources>
